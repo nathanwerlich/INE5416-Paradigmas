@@ -1,1 +1,1 @@
-# INE5416-Paradigmas
+# Paradigmas de Programação
